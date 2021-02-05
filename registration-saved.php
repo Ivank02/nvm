@@ -5,6 +5,8 @@
     <title>Registration Saved</title>
 </head>
 <body>
+<?php
 
+?>
 </body>
 </html>
